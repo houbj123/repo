@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="856d7a3b-2c6c-44b5-9380-58bd28b2f363" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SudbvWYJ2vGrUYbqOE5sLCP86s" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Test3_8_1">
+    <configuration name="Test3_2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadTest.Test3_2_1" />
+      <module name="JAVAStu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3_3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadTest.Test3_3_1" />
+      <module name="JAVAStu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3_3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadTest.Test3_3_2" />
+      <module name="JAVAStu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3_7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadTest.Test3_7_1" />
+      <module name="JAVAStu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3_8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadTest.Test3_8_1" />
+      <module name="JAVAStu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test3_8_1" />
+        <item itemvalue="Application.Test3_7_1" />
+        <item itemvalue="Application.Test3_3_2" />
+        <item itemvalue="Application.Test3_3_1" />
+        <item itemvalue="Application.Test3_2_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856d7a3b-2c6c-44b5-9380-58bd28b2f363" name="Default Changelist" comment="" />
+      <created>1572417489192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572417489192</updated>
+      <workItem from="1572417490416" duration="2448000" />
+      <workItem from="1572525681484" duration="2426000" />
+      <workItem from="1574688913649" duration="5182000" />
+      <workItem from="1574848100093" duration="189000" />
+      <workItem from="1574855060055" duration="2261000" />
+      <workItem from="1574930995895" duration="1388000" />
+      <workItem from="1575442357904" duration="10918000" />
+      <workItem from="1575599257677" duration="1536000" />
+      <workItem from="1575872048966" duration="6514000" />
+      <workItem from="1576117641713" duration="1007000" />
+      <workItem from="1576463293635" duration="13000" />
+      <workItem from="1576479034184" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1575511273245">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.23.1440.835@0.23.1440.835" timestamp="1575511273245" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1575885064647">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1575885064647" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1575885064646">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1575885064646" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1575885064646">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1575885064646" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1575885064647">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1575885064647" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom" timestamp="1575885064649">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1575885064649" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center" timestamp="1575885064648">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1575885064648" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left" timestamp="1575885064648">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1575885064648" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right" timestamp="1575885064648">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1575885064648" />
+  </component>
+</project>
